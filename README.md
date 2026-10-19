@@ -19,8 +19,8 @@
 <img src="screenshots/summary.png" width="360">
 
 ## 安装
-1. 在 [Releases](https://github.com/scarlettfh1923-ui/zhouerfushi/releases/latest) 下载 `zhouerfushi-v2.6.1.apk`
-   当前版本：**v2.6.1**（修复切换闪烁等问题；v2.6 新增桌面小组件、月度/季度总结图）
+1. 在 [Releases](https://github.com/scarlettfh1923-ui/zhouerfushi/releases/latest) 下载 `zhouerfushi-v2.7.apk`
+   当前版本：**v2.7**（新增自由日、调整安排拖动；长线单独计算）
 2. 在手机上打开，按提示允许「安装未知来源应用」
 3. 已装 v1 可直接覆盖安装，数据保留
 
