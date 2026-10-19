@@ -19,8 +19,8 @@
 <img src="screenshots/summary.png" width="360">
 
 ## 安装
-1. 在 [Releases](https://github.com/scarlettfh1923-ui/zhouerfushi/releases/latest) 下载 `zhouerfushi-v2.7.apk`
-   当前版本：**v2.7**（新增自由日、调整安排拖动；长线单独计算）
+1. 在 [Releases](https://github.com/scarlettfh1923-ui/zhouerfushi/releases/latest) 下载 `zhouerfushi-v2.8.apk`
+   当前版本：**v2.8**（七幕胶片条、卡片内添加任务、纵向时间轴调整安排）
 2. 在手机上打开，按提示允许「安装未知来源应用」
 3. 已装 v1 可直接覆盖安装，数据保留
 
